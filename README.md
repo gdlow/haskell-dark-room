@@ -3,7 +3,7 @@ CLI interactive terminal implementation of the Youtube/Fringe Hit "The Dark Room
 
 **TO RUN**:
 
-In Docker: `docker build -t "haskell-dark-room"` `docker run haskell-dark-room`
+In Docker: `docker build -t "haskell-dark-room ."` `docker run haskell-dark-room`
 
 In ghci: `runhaskell darkroom.hs`
 
